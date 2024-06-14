@@ -7,6 +7,10 @@
           Bienvenido##
         </h1>
 
+        <h2>
+         CC19089, Gerardo Aníbal Campos Chávez
+        </h2>
+
         <p class="subheading font-weight-regular">
           Front End del sistema de tareas,<br> para utilizar como ejemplo en las practicas de despliegue.
           
